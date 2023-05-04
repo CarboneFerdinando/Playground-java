@@ -1,0 +1,32 @@
+2023-05-04 15:47:35,907 TRACE [main] Hello from Log4j 2
+2023-05-04 15:47:35,912 DEBUG [main] Hello from Log4j 2
+2023-05-04 15:47:35,912 INFO [main] Hello from Log4j 2
+2023-05-04 15:47:35,912 WARN [main] Hello from Log4j 2
+2023-05-04 15:47:35,912 ERROR [main] Hello from Log4j 2
+2023-05-04 15:47:35,912 FATAL [main] Hello from Log4j 2
+2023-05-04 15:47:35,914 INFO [main] Ciao da stampa altri log...
+2023-05-04 15:47:35,925 INFO [main] Autore: Luigi Pirandello
+2023-05-04 15:47:35,925 WARN [main] Titolo: Il fu Mattia Pascal
+2023-05-04 15:47:35,925 INFO [main] Autore: Italo Svevo
+2023-05-04 15:47:35,926 WARN [main] Titolo: Una vita
+2023-05-04 15:47:35,927 DEBUG [main] File CSV creato correttamente
+2023-05-04 15:47:35,933 DEBUG [main] Provo a leggere un file excel
+2023-05-04 15:47:36,426 INFO [main] Valore Ciao
+2023-05-04 15:47:36,426 INFO [main] Valore Sono
+2023-05-04 15:47:36,426 INFO [main] Valore un
+2023-05-04 15:47:36,427 INFO [main] Valore esempio
+2023-05-04 15:47:36,428 INFO [main] Valore di 
+2023-05-04 15:47:36,429 INFO [main] Valore test
+2023-05-04 15:47:36,838 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-04 15:47:36,838 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-04 15:57:14,461 TRACE [main] Hello from Log4j 2
+2023-05-04 15:57:14,464 DEBUG [main] Hello from Log4j 2
+2023-05-04 15:57:14,464 INFO [main] Hello from Log4j 2
+2023-05-04 15:57:14,464 WARN [main] Hello from Log4j 2
+2023-05-04 15:57:14,465 ERROR [main] Hello from Log4j 2
+2023-05-04 15:57:14,465 FATAL [main] Hello from Log4j 2
+2023-05-04 15:57:14,467 INFO [main] Ciao da stampa altri log...
+2023-05-04 15:57:14,467 ERROR [main] Hai sbagliato
+2023-05-04 15:57:14,467 FATAL [main] Errore fatale la macchina sta per esplodere
+2023-05-04 15:57:14,467 DEBUG [main] We wagliu c'è qualche bug
+2023-05-04 15:57:14,467 FATAL [main] 3...2...1...boom!!
